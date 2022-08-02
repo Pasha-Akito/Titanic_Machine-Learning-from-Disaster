@@ -25,6 +25,14 @@ And a folder named Data with the following data sets:
 ## Quick Steps
 ***
 
+You can view the titanic notebook in static form by clicking the following image:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Pasha-Akito/Theory-of-Algorithms-Assessment/blob/main/post-correspondence.ipynb)
+
+You can view the titanic notebook in dynamic form by clicking the following image:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pasha-Akito/Emerging-Technologies-Assessment/blob/main/scikit-learn.ipynb/HEAD)
+
 ## How to run the notebook
 
 1. Download [Anacanda](https://www.anaconda.com/)
