@@ -9,17 +9,20 @@
 This repoistory contains one Jupyter notebook:
 <br>
 1. <b> titanic.ipynb </b>
-  * Overview of the Problem 
-    - Predicting Which Passengers Survived the Titanic 
-  * Setting up and Orginzation of the Data using <i> pandas </i>
-  * Visualisation of the Data using <i> matplotlib </i> and <i> seaborn </i>
-  * Creating a Machine Learning Model using <i> scikit-learn </i>
-  * Demonstration of the Model
-  * Conclusion
+ * Overview of the Problem 
+  - Predicting Which Passengers Survived the Titanic 
+ * Setting up and Orginzation of the Data using <i> pandas </i>
+ * Visualisation of the Data using <i> matplotlib </i> and <i> seaborn </i>
+ * Creating a Machine Learning Model using <i> scikit-learn </i>
+ * Demonstration of the Model
+ * Conclusion
   <br>
 And a folder named Data with the following data sets:
+<br>
 1. <b> gender_submission.csv </b>
+<br>
 2. <b> test.csv </b>
+<br>
 3. <b> train.csv </b>
 
 ## Quick Steps
@@ -27,11 +30,11 @@ And a folder named Data with the following data sets:
 
 You can view the titanic notebook in static form by clicking the following image:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Pasha-Akito/Theory-of-Algorithms-Assessment/blob/main/post-correspondence.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Pasha-Akito/Titanic_Machine-Learning-from-Disaster/blob/main/titanic.ipynb)
 
 You can view the titanic notebook in dynamic form by clicking the following image:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pasha-Akito/Emerging-Technologies-Assessment/blob/main/scikit-learn.ipynb/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pasha-Akito/Titanic_Machine-Learning-from-Disaster/HEAD?labpath=titanic.ipynb)
 
 ## How to run the notebook
 
