@@ -9,13 +9,13 @@
 This repoistory contains one Jupyter notebook:
 <br>
 1. <b> titanic.ipynb </b>
- * Overview of the Problem 
-  - Predicting Which Passengers Survived the Titanic 
- * Setting up and Orginzation of the Data using <i> pandas </i>
- * Visualisation of the Data using <i> matplotlib </i> and <i> seaborn </i>
- * Creating a Machine Learning Model using <i> scikit-learn </i>
- * Demonstration of the Model
- * Conclusion
+  * Overview of the Problem 
+    - Predicting Which Passengers Survived the Titanic 
+  * Setting up and Orginzation of the Data using <i> pandas </i>
+  * Visualisation of the Data using <i> matplotlib </i> and <i> seaborn </i>
+  * Creating a Machine Learning Model using <i> scikit-learn </i>
+  * Demonstration of the Model
+  * Conclusion
   <br>
 And a folder named Data with the following data sets:
 <br>
